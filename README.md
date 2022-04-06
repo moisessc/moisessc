@@ -1,6 +1,6 @@
 ### Hello world! I'm Moisés 👋🏽 🧑🏽‍💻 
 ---
-- 🔭 I’m currently working on Tecnomotum like at backend developer
+- 🔭 I’m currently working on Globant like at backend developer
 - 🌱 I’m currently learning the amazing cross-platform world with Flutter
 - 👯 I’m looking to collaborate on mobile apps created with Flutter
 - 🤔 I’m looking for help with github actions
